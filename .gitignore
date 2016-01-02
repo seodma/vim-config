@@ -1,0 +1,11 @@
+viminfo
+doc
+syntax
+lib
+vim73
+swaps
+.netrwhist
+autoload
+backups/*
+*~
+bundle/*
